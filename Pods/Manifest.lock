@@ -1,0 +1,12 @@
+PODS:
+  - GradientView (2.2.0)
+
+DEPENDENCIES:
+  - GradientView
+
+SPEC CHECKSUMS:
+  GradientView: a5397174594f158dc1511127f2004ec25c9d2300
+
+PODFILE CHECKSUM: 5bd947608fc596bcdbfcebdd0d601ff5015d70df
+
+COCOAPODS: 1.3.0.beta.1
